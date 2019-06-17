@@ -1,0 +1,8 @@
+com/unisociesc/bookfair/service/JsonUtilService.class
+com/unisociesc/bookfair/BookFairApplication.class
+com/unisociesc/bookfair/engine/Consumer.class
+com/unisociesc/bookfair/domain/Request.class
+com/unisociesc/bookfair/domain/School.class
+com/unisociesc/bookfair/domain/Genre.class
+com/unisociesc/bookfair/engine/Producer.class
+com/unisociesc/bookfair/service/FileService.class

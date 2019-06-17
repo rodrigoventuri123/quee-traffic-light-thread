@@ -1,0 +1,45 @@
+{
+  "generos": [
+    {
+      "id": 1,
+      "nome": "Ciências Exatas",
+      "preco": 25,
+      "quantidade": 350
+    },
+    {
+      "id": 2,
+      "nome": "Programação",
+      "preco": 25,
+      "quantidade": 100
+    }
+  ],
+  "escolas": [
+    {
+      "nome": "Escola Y",
+      "pedidos": [
+        {
+          "genero_id": 2,
+          "quantidade": 50
+        }
+      ]
+    },
+    {
+      "nome": "Escola X",
+      "pedidos": [
+        {
+          "genero_id": 1,
+          "quantidade": 100
+        }
+      ]
+    },
+    {
+      "nome": "Escola Z",
+      "pedidos": [
+        {
+          "genero_id": 1,
+          "quantidade": 34
+        }
+      ]
+    }
+  ]
+}
